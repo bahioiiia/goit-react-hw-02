@@ -4,6 +4,8 @@ import Description from "../Description/Description";
 
 export default function App() {
   return (
-    <Description />
+    <section className={css.container}>
+      <Description />
+    </section>
   );
 }
