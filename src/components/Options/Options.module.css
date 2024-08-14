@@ -1,0 +1,9 @@
+.options {
+  display: flex;
+  justify-content: space-between;
+}
+
+.feedback {
+  display: flex;
+  gap: 12px;
+}
