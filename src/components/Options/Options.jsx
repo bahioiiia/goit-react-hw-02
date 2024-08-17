@@ -18,6 +18,7 @@ export default function Options({
         Bad
       </button>
       </div>
+      
       {totalFeedback > 0 && (
         <button onClick={resetFeedback}>
           Reset
